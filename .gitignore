@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+datasets/
+runs/
+model_distilbert*/
+roberta_enhanced_*/
+universal_maximum_accuracy_labeled_emails.csv
+h.txt
+*.log
+.DS_Store
