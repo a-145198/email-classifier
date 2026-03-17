@@ -1,0 +1,31 @@
+{
+  "model_version": "RoBERTa-Enhanced-v1.0-20251001_0928",
+  "model_type": "RoBERTa Enhanced",
+  "categories": [
+    "Action Required",
+    "Informational/Updates",
+    "Social/Personal",
+    "Scheduling/Events",
+    "Support/Help",
+    "Promotional/Marketing",
+    "Transactional/Confirmations",
+    "Urgent/Time-Sensitive"
+  ],
+  "training_results": {
+    "accuracy": 0.8720833333333333,
+    "f1": 0.8712682308113295,
+    "precision": 0.8706948078470838,
+    "recall": 0.8720833333333333,
+    "training_time": 10519.763286828995,
+    "save_path": "./roberta_enhanced_RoBERTa-Enhanced-v1.0-20251001_0928"
+  },
+  "improvements": [
+    "Advanced data balancing",
+    "Enhanced preprocessing",
+    "RoBERTa architecture",
+    "M4 optimization"
+  ],
+  "training_date": "2025-10-01T12:23:40.803724",
+  "device": "mps",
+  "expected_improvements": "99.80-99.85% accuracy with balanced predictions"
+}
